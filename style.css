@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(211, 255, 255, 0.767);
+    border-color: rgb(255, 255, 255);
+    border-width: 50px;
+    border-style: dotted;
+    background-image: "https://cdn.dribbble.com/users/167024/screenshots/973328/material_gradient.gif";
+}
+
+
+
+
+#Title{
+    font-size:50px ;
+    background-color: rgba(255, 255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    border-style:groove;
+    border-color: tomato;
+    border-width: 20px;
+}
+
+
+#Cheese{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    border-width: 15px;
+    border-color: rgb(201, 197, 255);
+    border-style:double;
+    background-color:rgba(238, 232, 170, 0);
+}
+
+#Draw{
+    background-color: paleturquoise;
+}
